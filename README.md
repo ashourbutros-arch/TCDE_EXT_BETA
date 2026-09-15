@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Go to the [Releases page](https://github.com/ashourbutros-arch/TCDE_EXT_BETA/releases/tag/v) of this repository.
+1. Go to the [Releases page](https://github.com/ashourbutros-arch/TCDE_EXT_BETA/releases) of this repository.
 2. Download `TCDE_PDF_Extractor_Beta_vXXX.exe` from the latest release.
 3. Save it anywhere on your Windows PC (no installer needed — it's a
    single standalone file).
