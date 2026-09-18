@@ -12,6 +12,7 @@
 How to install :
 
 1- Open CMD
+
 2- Copy and past the command below to CMD and press Enter to download the package
 
        winget install --id UB-Mannheim.TesseractOCR -e
