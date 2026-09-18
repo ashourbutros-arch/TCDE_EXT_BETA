@@ -7,8 +7,7 @@
    single standalone file).
 4. Install Tesseract (important Step to read Non-compliant Drawings)
                                                                     
-**Install this before using the app, on every PC it runs on. Anything scanned, flattened to an image, or from an older non-standard template — app need OCR to read their Location and Title .
-Without it, those specific fields come back blank.**
+**Install this before using the app, on every PC it runs on. Anything scanned, flattened to an image, or from an older non-standard template — app need this package read their Location and Title . Without it, those specific fields come back blank.**
 
 How to install :
 
